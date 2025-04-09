@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony Dsouza
-- 👀 I’m interested in Coding Java/C# Projects
-- 🌱 I’m currently learning Azure DevOps, D365 Develpment
+- 👀 I’m interested in Coding React/Angular/Python/Java/.NET Projects
+- 🌱 I’m currently learning Odoo Development, AI Agents, AI Workflows, Full Stack, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
